@@ -1,0 +1,5 @@
+-->AmazonDynamoDBFullAccess
+
+-->AmazonS3ReadOnlyAccess
+
+-->AWSLambdaBasicExecutionRole
