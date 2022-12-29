@@ -1,0 +1,16 @@
+s3 Bucket creation:
+
+create a bucket:
+	-Enter a unique name
+	-ACLs enabled
+	-Block all public access(Uncheck)
+	-Acknowledge(check)
+	-click on create bucket
+
+Upload an Object:
+	-Create a .csv file your local system
+	-Go into the bucket on the top right("Upload" Button)
+	-Click on add file(it will re-direct to your local file manager)
+	-Select the file you want to upload
+	-Click on upload
+
