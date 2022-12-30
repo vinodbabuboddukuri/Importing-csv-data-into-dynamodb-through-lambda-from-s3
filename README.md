@@ -14,5 +14,5 @@ The main aim of this AWS Project is importing the .csv data through Lambda
 ![image](https://user-images.githubusercontent.com/96176689/209984259-ae96601d-93b7-46a0-98c5-65e626a14760.png)
 
 
-**DynamoDB()**
+**DynamoDB**
 ![image](https://user-images.githubusercontent.com/96176689/209984367-20491b8d-d0fd-4a97-9d2e-98f9c76cf3a2.png)
